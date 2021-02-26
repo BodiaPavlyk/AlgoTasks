@@ -12,3 +12,4 @@ def check(number):
 
 n = int(input('Input: '))
 if not check(n):
+  print("It`s impossible!")
